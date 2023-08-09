@@ -1,0 +1,27 @@
+{
+    "name": "react-native-fluffy-lamp",
+    "version": "1.0.0",
+    "description": "this is designed for shiny",
+    "homepage": "https://github.com/dorislynch/react-native-fluffy-lamp",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-fluffy-lamp"
+    ],
+    "author": {
+      "name": "fluffy",
+      "email": "fluffy@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dorislynch/react-native-fluffy-lamp.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
+  
